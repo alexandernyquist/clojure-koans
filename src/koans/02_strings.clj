@@ -4,7 +4,7 @@
 
 (meditations
   "A string is nothing more than text surrounded by double quotes"
-  (= __ "hello")
+  (= hello "hello")
 
   "But double quotes are just magic on top of something deeper"
   (= __ (str 'world))
